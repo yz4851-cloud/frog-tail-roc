@@ -1,0 +1,29 @@
+name: frog-tail-roc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - scanpy>=1.10
+  - anndata>=0.10
+  - harmonypy
+  - scvi-tools>=1.1
+  - pytorch
+  - numba
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - umap-learn
+  - pynndescent
+  - python-igraph
+  - louvain
+  - leidenalg
+  - openpyxl
+  - jupyterlab
+  - pip
+  - pip:
+      - magic-impute
+      - dca
