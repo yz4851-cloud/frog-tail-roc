@@ -1,0 +1,5 @@
+metric,value
+"ARI(Louvain,Leiden)",0.9054473350467259
+Silhouette(Louvain),0.26702681183815
+Silhouette(Leiden),0.29715871810913086
+Silhouette(k-means),0.5867025852203369
