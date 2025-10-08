@@ -1,0 +1,8 @@
+.venv/
+data/*.h5ad
+results/*.h5ad
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
