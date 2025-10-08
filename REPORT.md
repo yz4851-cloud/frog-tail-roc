@@ -40,5 +40,8 @@ A unique skin cluster consistent with the role in tail regeneration was successf
 
 Caption
 
-Figure 1. UMAP plot colored by the clustering assignment results of Louvain, Leiden, and k-means (results/figures/umap_clusters.png).
-Figure 2. Point plot of consensus ROC markers among the skin clusters (results/figures/roc_consensus.png).
+Figure 1. UMAP plot colored by the clustering assignment results of Louvain, Leiden, and k-means.
+![Figure 1 - Clustering](results/figures/umap_clusters.png)
+
+Figure 2. Point plot of consensus ROC markers among the skin clusters.
+![Figure 2 - ROC Markers](results/figures/roc_consensus.png)
