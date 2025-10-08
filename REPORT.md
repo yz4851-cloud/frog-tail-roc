@@ -16,6 +16,8 @@ Skin cell focus and ROC score: extract the skin cell subset, re-run k-nearest ne
 Marker gene selection: perform logistic regression and Wilcoxon test on the skin cell subset; consensus marker genes are composed of the top-ranked genes from both; exported to results/roc_markers_logreg_wilcoxon.csv.
 Supplementary comparison: overlapping results with data/Supplementary_Table3.csv (column gene) are saved in results/overlap_with_supp_table3.csv.
 
+MI-Checklist：[MI_CHECKLIST.md](MI_CHECKLIST.md)
+
 Colab: https://colab.research.google.com/github/yz4851-cloud/frog-tail-roc/blob/main/colab_frog_tail_roc.ipynb
 
 Code availability: https://github.com/yz4851-cloud/frog-tail-roc
@@ -49,5 +51,6 @@ Figure 1. UMAP plot colored by the clustering assignment results of Louvain, Lei
 
 Figure 2. Point plot of consensus ROC markers among the skin clusters.
 ![Figure 2 - ROC Markers](results/figures/roc_consensus.png)
+
 
 
