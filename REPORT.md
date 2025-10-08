@@ -40,6 +40,8 @@ Conclusion
 
 A unique skin cluster consistent with the role in tail regeneration was successfully recovered. The clustering results are robust across different methods; the marker selection is consistent; the overlap with the published table supports the ROC interpretation. Running python run_all.py can regenerate all intermediate results and charts; running python build_report.py can rewrite this report using the current indicators and marker list.
 
+MI-Checklist: see MI_CHECKLIST.md (based on https://www.nature.com/articles/s41591-020-1041-y/tables/1)
+
 Caption
 
 Figure 1. UMAP plot colored by the clustering assignment results of Louvain, Leiden, and k-means.
@@ -47,4 +49,5 @@ Figure 1. UMAP plot colored by the clustering assignment results of Louvain, Lei
 
 Figure 2. Point plot of consensus ROC markers among the skin clusters.
 ![Figure 2 - ROC Markers](results/figures/roc_consensus.png)
+
 
